@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+    background-color: aquamarine;
+    padding: 30px;
+}
+.pq{
+    display: inline;
+    padding: 25px;
+    font-family: monospace;
+    font-size: 18px;
+}
+.pp:hover{
+    padding: 30px;
+    background-color: black;
+    color: red;
+}
+.pp{
+    text-decoration: none;
+    color: black;
+    padding: 30px;
+}
+.products{
+    display: flex;
+    margin-left: 50px;
+    
+}
+
+.p1{
+    width: 250px;
+    height: 400px;
+    /* background-color: lightgrey; */
+    margin-left: 50px;
+    box-shadow: 1px 5px 14px;
+    border-bottom-right-radius: 12px;
+    border-top-left-radius: 12px;
+    
+}
+.p11{
+    height: 300px;
+    width: 220px;
+    margin-top: 14px;
+    margin-left: 16px;
+    border-bottom-left-radius: 12px;
+    border-top-right-radius: 12px;
+
+}
+.p111{
+    margin-left: 20px;
+
+}
+.p111,a{
+    color: black;
+}
+
+.p11:hover{
+    transform: scale(1.05);
+    color: aquamarine;
+    box-shadow: 3px 3px 3px;
+}
+.p1111{
+    background-color:aqua;
+    border: 0;
+    font-size: 15px;
+    padding: 8px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.p11111{
+    background-color:aqua;
+    border: 0;
+    font-size: 15px;
+    padding: 8px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.p2{
+    width: 250px;
+    height: 400px;
+    /* background-color: lightgrey; */
+    margin-left: 50px;
+    box-shadow: 1px 5px 14px;
+    border-bottom-right-radius: 12px;
+    border-top-left-radius: 12px;
+}
+.de{
+    margin-left: 5px;
+    color: red; 
+    font-size: 16px;
+     font-weight: bold;
+    }
+    .spn{
+        margin-left: 8px;
+        color:green;font-size: 15px;
+    }
+    .text{
+        font-size: 25px;
+        font-weight: bold;
+
+    }
+    
+
+.p3{
+    width: 250px;
+    height: 400px;
+    /* background-color: lightgrey; */
+    margin-left: 50px;
+    box-shadow: 1px 5px 14px;
+    border-bottom-right-radius: 12px;
+    border-top-left-radius: 12px;
+}
+.p4{
+    width: 250px;
+    height: 400px;
+    /* background-color: lightgrey; */
+    margin-left: 50px;
+    box-shadow: 1px 5px 14px;
+    border-bottom-right-radius: 12px;
+    border-top-left-radius: 12px;
+}
+.p5{
+    width: 250px;
+    height: 400px;
+    /* background-color: lightgrey; */
+    margin-left: 50px;
+    box-shadow: 1px 5px 14px;
+    border-bottom-right-radius: 12px;
+    border-top-left-radius: 12px;
+}
+.products1{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 50px;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    color: rgb(235, 57, 57);
+    background-color: aqua;
+}
